@@ -1,0 +1,41 @@
+#pagina {
+	background-color:#FEFEBC;
+	height:100%;
+	width:540px;
+	overflow:auto;
+}
+
+#infoAsignatura {
+	margin-top:0;
+	margin-bottom:0;
+	text-align:center;
+	font-size:24px;
+}
+
+#parrafoInformacion, #parrafoBibliografia, #parrafoApuntes, #parrafoExamenes, #parrafoPracticas, #parrafoProfesores {
+	padding:10;
+	font-size:18px;
+}
+
+#infoBasica {
+	padding:10;
+	font-size:14px;
+}
+
+table, th, td {
+    border: 1px solid black;
+	padding: 3px;
+}
+
+table {
+    border-collapse: collapse;
+	margin: 0 auto;
+}
+
+td{
+	text-align:center;
+}
+
+#filaColor{
+	background-color:#FEC700;
+}
